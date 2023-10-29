@@ -66,7 +66,7 @@ class MyCard extends StatelessWidget {
                       fontFamily: 'MadeSunflower',
                       fontSize: 19),
                 ),
-                subtitle: Text('Telefono'),
+                subtitle: Text('Teléfono'),
                 trailing: Icon(
                   Icons.check_circle_outlined,
                   color: Colors.blueAccent,
